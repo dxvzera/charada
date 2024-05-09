@@ -1,3 +1,3 @@
 # Uma Pequena charada...
 
-não vou dar spoiler, se quizer o arquivo executavel, ele esta presente na pasta dist/main/
+não vou dar spoiler, se quizer o arquivo executavel, ele esta presente na pasta dist/main
